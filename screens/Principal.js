@@ -42,7 +42,7 @@ export default function Principal() {
         name="FEED"
         component={Feed}
         options={{
-          tabBarLabel: 'ATUALIZAÇÕES',
+          tabBarLabel: 'HOME',
           tabBarIcon: ({ color, size }) => (
             <MaterialCommunityIcons name="home" color={color} size={size} />
           ),
