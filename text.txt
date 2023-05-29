@@ -1,0 +1,5 @@
+1nao consegui fazer no cadastro funcionar1
+
+2na parte de da mensagem do email ele faz a verificaçao mas nao vai pra tela home 
+se eu tirar o (return) ele passa direto
+3fiz o maximo que eu pude nesse tempo
